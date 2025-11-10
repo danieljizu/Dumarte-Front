@@ -1,0 +1,117 @@
+/* Footer Styles */
+        .footer {
+            background-color: var(--negro);
+            color: var(--blanco);
+            margin-top: 50px;
+        }
+        
+        .footer-brand {
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: var(--blanco);
+            margin-bottom: 10px;
+        }
+        
+        .footer-tagline {
+            color: var(--naranja-primary);
+            font-size: 1rem;
+            font-style: italic;
+            margin-bottom: 15px;
+        }
+        
+        .footer-description {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+        
+        .footer-title {
+            color: var(--naranja-primary);
+            font-weight: 600;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        
+        .footer-links {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .footer-links li {
+            margin-bottom: 10px;
+        }
+        
+        .footer-links a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            transition: all 0.3s;
+            font-size: 0.9rem;
+        }
+        
+        .footer-links a:hover {
+            color: var(--naranja-primary);
+            padding-left: 5px;
+        }
+        
+        .footer-contact {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .footer-contact li {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+        
+        .contact-icon {
+            font-size: 1.2rem;
+            margin-right: 10px;
+            color: var(--naranja-primary);
+        }
+        
+        .footer-contact a {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            transition: color 0.3s;
+            font-size: 0.9rem;
+        }
+        
+        .footer-contact a:hover {
+            color: var(--naranja-primary);
+        }
+        
+        .social-links {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            background-color: rgba(247, 147, 30, 0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--naranja-primary);
+            transition: all 0.3s;
+        }
+        
+        .social-icon:hover {
+            background-color: var(--naranja-primary);
+            color: var(--blanco);
+            transform: translateY(-3px);
+        }
+        
+        .footer-bottom {
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 20px 0;
+            margin-top: 30px;
+        }
+        
+        .footer-bottom p {
+            margin: 0;
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 0.9rem;
+        }

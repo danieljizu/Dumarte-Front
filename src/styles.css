@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+        :root {
+            --naranja-primary: #F7931E;
+            --naranja-dark: #E67E00;
+            --negro: #000000;
+            --blanco: #FFFFFF;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }

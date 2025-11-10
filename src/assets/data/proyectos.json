@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "titulo": "Closet Walk-in Moderno",
+    "descripcion": "Diseño minimalista con iluminación LED integrada",
+    "categoria": "closets",
+    "tags": ["Closet", "Melamina"],
+    "imagenes": [
+    ]
+  },
+  {
+    "id": 1,
+    "titulo": "Cocina Integral Contemporánea",
+    "descripcion": "Diseño en L con isla central",
+    "categoria": "cocinas",
+    "tags": ["Cocina", "Cuarzo"],
+    "imagenes": [
+      "assets/img/CocinasIntegrales/Imagencocina.jpg",
+      "assets/img/CocinasIntegrales/Imagencocina2.jpg",
+      "assets/img/CocinasIntegrales/Imagencocina4.jpg",
+      "assets/img/CocinasIntegrales/Imagencocina5.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Centro de Entretenimiento",
+    "descripcion": "Mueble flotante con iluminación",
+    "categoria": "muebles",
+    "tags": ["Mueble", "Madera"],
+    "imagenes": [
+      "assets/img/CentrosEntretenimiento/Centro1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Closet Clásico Elegante",
+    "descripcion": "Puertas corredizas con espejo",
+    "categoria": "closets",
+    "tags": ["Closet", "Espejo"],
+    "imagenes": [
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Remodelación Completa",
+    "descripcion": "Apartamento moderno y funcional",
+    "categoria": "remodelacion",
+    "tags": ["Remodelación", "Integral"],
+    "imagenes": [
+      "assets/img/Remodelaciones/Remodelacion1.jpg",
+      "assets/img/Remodelaciones/Remodelacion2.jpg",
+      "assets/img/Remodelaciones/Remodelacion3.jpg",
+      "assets/img/Remodelaciones/Remodelacion4.jpg",
+      "assets/img/Remodelaciones/Remodelacion5.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Cocina Minimalista",
+    "descripcion": "Diseño abierto con barra desayunador",
+    "categoria": "cocinas",
+    "tags": ["Cocina", "Moderna"],
+    "imagenes": [
+      "assets/img/CocinasMinimalistas/Imagencocina1.jpg"
+    ]
+  }
+]
